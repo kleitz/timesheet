@@ -1,0 +1,1 @@
+D:\xampppp\htdocs\TS\app/views/skills/show.blade.php
